@@ -10,7 +10,7 @@ body {
     margin: 20px;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    background-image: url('cod2/imagenes/Fondo_light.jpg');
+    background-image: url('cod2/Imagenes/Fondo_light.jpg');
     background-size: cover; /* Ajusta la imagen para cubrir toda la pantalla */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -19,7 +19,7 @@ body {
 body.dark-mode {
     background-color: #333;
     color: #f4f4f4;
-    background-image: url('cod2/imagenes/Fondo_dark.jpg');
+    background-image: url('cod2/Imagenes/Fondo_dark.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
